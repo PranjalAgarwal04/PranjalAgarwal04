@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PranjalAgarwal04
-- 👀 I’m interested in coding in Java and Python.
-- 🌱 I’m currently learning Machine learning.
-<!-- - 💞️ I’m looking to collaborate on ... -->
+- 👀 My primary coding language is JAVA.
 - 📫 You can connect also on LinkedIn --> www.linkedin.com/in/pranjalagarwal0409
 
 <!---
